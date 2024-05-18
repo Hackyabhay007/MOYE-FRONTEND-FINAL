@@ -17,7 +17,7 @@ function Bottom() {
               Limited Supply
             </h5>
             <p class="font-normal text-center text-gray-700 dark:text-gray-400">
-              The maximum supply is 100,000,000 WLTK, which ensures no
+              The maximum supply is 100,000,000 MOYE, which ensures no
               inflation, and makes it a low-risk token, strong and trusted by
               everyone.
             </p>
@@ -31,7 +31,7 @@ function Bottom() {
               Recyclable
             </h5>
             <p class="font-normal text-center text-gray-700 dark:text-gray-400">
-              Walletika token is recyclable, by collecting it for Walletika's
+            MOYE token is recyclable, by collecting it for MOYE's
               paid services and refunding it into staking protocol again.
             </p>
           </a>
@@ -43,7 +43,7 @@ function Bottom() {
               Fully Decentralized
             </h5>
             <p class="font-normal text-center text-gray-700 dark:text-gray-400">
-              Walletika token is 100% decentralized and transactions can't be
+            MOYE token is 100% decentralized and transactions can't be
               controlled such as pausing it or adding wallets to the blacklist.
             </p>
           </a>
